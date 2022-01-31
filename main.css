@@ -1,0 +1,5 @@
+#container{display: flex;}
+#left{width: 33%;
+text-align: center;}
+#slider{width: 33%;}
+#right{width: 33%;}
